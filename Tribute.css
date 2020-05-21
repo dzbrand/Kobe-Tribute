@@ -1,0 +1,37 @@
+#main {
+  background: #EEE; 
+}
+
+#title {
+  text-align: center;
+  text-align: bottom;
+  padding: 50px;
+  margin: px;
+  font-family: georgia;
+}
+
+#image {
+  max-width: 100%;
+  max-height: auto;
+  display:block;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#img-caption {
+  font-size: 13px;
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  font-weight: normal;
+}
+
+#tribute-info {
+  font-size: 14px;
+  text-align: center;
+}
